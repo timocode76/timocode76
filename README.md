@@ -1,16 +1,35 @@
-## Hi there 👋
+# Bonjour ! 👋 Je suis Timothée Emmanuel Schneider Fansito
 
-<!--
-**timocode76/timocode76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **L2 Info-Gestion à l’ESIH** | Développeur Web & Python | Passionné par la création de projets innovants.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Compétences
+
+- **Langages** : HTML, CSS, JavaScript, Python, SQL  
+- **Frameworks / Libs** : React, Flask, Bootstrap  
+- **Outils** : Git & GitHub, VS Code, Microsoft 365  
+- **Gestion de projets** : Méthodologie agile, coordination d’équipes  
+
+---
+
+## 💼 Projets en cours
+
+1. **Application de gestion de tâches** – Ajouter, supprimer et marquer des tâches.  
+2. **Site Web pour Spotlight Events And Decor** – Création d’une vitrine moderne pour l’entreprise.  
+3. **Projet La Bouffe** – Système complet de gestion pour restaurant, prêt pour monétisation.  
+4. **Portfolio personnel** – Présentation de mon CV et mes projets.
+
+> Les projets sont en développement et seront bientôt disponibles sur ce GitHub !
+
+---
+
+## 📫 Contact
+
+- Email : emmanuel.timothee@esih.edu
+- LinkedIn : [Mon profil LinkedIn]  https://www.linkedin.com/in/emmanuel-timothee-8b77a8393/
+
+---
+
+Merci de visiter mon profil GitHub ! 🚀
+
