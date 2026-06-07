@@ -1,6 +1,6 @@
 # Bonjour ! 👋 Je suis Timothée Emmanuel Schneider Fansito
 
-Étudiant en **L3 Info-Gestion à l’ESIH** | Développeur Web & Python | Passionné par la création de projets innovants.
+Étudiant en **L3 Info-Gestion à l’ESIH** | Développeur Software, Intelligence Artificielle (AI), Robotique | Passionné par la création de projets innovants.
 
 ---
 
